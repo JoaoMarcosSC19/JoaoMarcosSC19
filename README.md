@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Marcos
 
-- 👨‍💻 Sou um desenvolvedor migrando de carreira, estou á mais de 6 meses estudando front end pela plataforma da Alura, além da utilização da plataforma desenvolvi diversos projetos para treinar e validar meus estudos.
+- 👨‍💻 Sou um desenvolvedor iniciante, com muita vontade de aprender e na busca do meu primeiro job na programação. Abaixo você pode conferir no que estou fazendo.
 
 
 
